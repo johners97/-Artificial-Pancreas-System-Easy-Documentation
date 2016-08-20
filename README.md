@@ -10,6 +10,8 @@ Do not proceed with this unless you are experienced enough to understand the int
 
 Meter Blood Glucose: mmol/L does not equate to Plasma Blood Glucose: mmol/L and it shouldn't. The quantity of glucose present in your blood is not equally distributed. Blood moves around your body so, in a sense, it's mixing around the glucose so it should reach equilibrium more quickly but since there are constant inputs and outputs; for instance, renal extretion of glucose, glucose being oxidised by enzymes in cells for energy, glucose production from enzymatic processes in the liver and of course, glucose absorption through the GI tract into the blood circulation. Therefore, as long as inputs `(mmol/L/hour) = outputs (mmol/L/hour)` for a prolonged period of time until blood glucose equally distributes for any set period of time. 
 
+Input '(+mmol/L/hour) + (-mmol/L/hour) = 0 ' for t time until distribution is achieved. 
+
 # Compatible Devices
 
 Medtronic Insulin Pump with Firmware less than or equal to 2.6A or have no PC Utility option in utility menu. 
