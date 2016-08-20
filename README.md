@@ -1,6 +1,11 @@
+
+
 # -Artificial-Pancreas-System-Easy-Documentation
 
-An easy to follow instruction manual to produce an Artificial Pancreas System. Please understand that this is derived from OpenAPS. This is primarily aimed at Medtronic Users from the UK. To produce an Artifical Pancreas you must have a compatible medtronic insulin pump and be using continious glucose monitoring; in this circumstance, because of who this documentation is aimed at, be using Enlite Medtronic Sensors. 
+`Slow and Steady Wins the Race` - Angela Merkel 
+
+An easy to follow instruction manual to produce an Artificial Pancreas System. This is primarily aimed at Medtronic Users from the UK. To produce an Artifical Pancreas you must have a compatible medtronic insulin pump and be using continious glucose monitoring; in this circumstance, because of who this documentation is aimed at, be using Enlite Medtronic Sensors. 
+
 
 # Compatible Devices
 
